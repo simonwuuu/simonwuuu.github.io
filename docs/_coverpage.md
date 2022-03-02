@@ -12,11 +12,11 @@
 
 # 吴小帅 <small>3.5</small>
 
-> 一个神奇的文档网站生成器。
+> 人生如逆旅，我亦是行人。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 个人技术博客
+- 学习总结
+- 其他主题
 
 [GitHub](https://github.com/simonwuuu)
 [Get Started](/README.md)
